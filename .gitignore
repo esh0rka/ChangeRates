@@ -1,3 +1,5 @@
 venv/
 .idea/
+__pycache__/
+current_exchange_rate.db
 
